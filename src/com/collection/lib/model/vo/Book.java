@@ -1,4 +1,4 @@
-package library;
+package com.collection.lib.model.vo;
 
 public class Book {
 	
